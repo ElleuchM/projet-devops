@@ -1,0 +1,13 @@
+2021-01-21 23:10:52,160 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting StoreManagementApplication using Java 11.0.8 on DESKTOP-QT9174F with PID 13592 (E:\3GLID1\DevOps\store-management-master\target\classes started by Mohamed ELLEUCH in E:\3GLID1\DevOps\store-management-master)
+2021-01-21 23:10:52,163 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 23:10:52,163 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-21 23:11:55,667 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting StoreManagementApplication using Java 11.0.8 on DESKTOP-QT9174F with PID 10816 (E:\3GLID1\DevOps\store-management-master\target\classes started by Mohamed ELLEUCH in E:\3GLID1\DevOps\store-management-master)
+2021-01-21 23:11:55,671 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 23:11:55,672 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-21 23:13:20,005 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting StoreManagementApplication using Java 11.0.8 on DESKTOP-QT9174F with PID 16080 (E:\3GLID1\DevOps\store-management-master\target\classes started by Mohamed ELLEUCH in E:\3GLID1\DevOps\store-management-master)
+2021-01-21 23:13:20,009 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 23:13:20,010 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-21 23:14:33,728 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting StoreManagementApplication using Java 11.0.8 on DESKTOP-QT9174F with PID 12616 (E:\3GLID1\DevOps\store-management-master\target\classes started by Mohamed ELLEUCH in E:\3GLID1\DevOps\store-management-master)
+2021-01-21 23:14:33,810 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-21 23:14:33,811 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-21 23:14:38,716 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started StoreManagementApplication in 5.467 seconds (JVM running for 7.073)

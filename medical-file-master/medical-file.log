@@ -1,0 +1,31 @@
+2020-12-22 14:35:40,984 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MedicalFileApplication using Java 11.0.2 on Troliste with PID 17304 (E:\DevOps\medical-file\target\classes started by Troliste in E:\DevOps)
+2020-12-22 14:35:40,985 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 14:35:40,985 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-12-22 14:35:42,499 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MedicalFileApplication in 1.578 seconds (JVM running for 1225.339)
+2020-12-22 14:36:41,616 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MedicalFileApplication using Java 11.0.2 on Troliste with PID 17304 (E:\DevOps\medical-file\target\classes started by Troliste in E:\DevOps)
+2020-12-22 14:36:41,617 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 14:36:41,617 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-12-22 14:36:42,965 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MedicalFileApplication in 1.386 seconds (JVM running for 1285.805)
+2020-12-22 14:36:54,428 DEBUG tn.iit.medicalfile.web.rest.TraitementResource [http-nio-8080-exec-10] Getting all traitements
+2020-12-22 14:38:13,712 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MedicalFileApplication using Java 11.0.2 on Troliste with PID 17304 (E:\DevOps\medical-file\target\classes started by Troliste in E:\DevOps)
+2020-12-22 14:38:13,713 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 14:38:13,713 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-12-22 14:38:15,506 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MedicalFileApplication in 1.846 seconds (JVM running for 1378.346)
+2020-12-22 14:40:43,416 DEBUG tn.iit.medicalfile.web.rest.TraitementResource [http-nio-8080-exec-9] Getting all traitements
+2020-12-22 17:46:13,375 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MedicalFileApplication using Java 11.0.2 on Troliste with PID 17304 (E:\DevOps\medical-file\target\classes started by Troliste in E:\DevOps)
+2020-12-22 17:46:13,376 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 17:46:13,377 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-12-22 17:47:19,014 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MedicalFileApplication using Java 11.0.2 on Troliste with PID 18484 (E:\DevOps\medical-file\target\classes started by Troliste in E:\DevOps)
+2020-12-22 17:47:19,021 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 17:47:19,022 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-12-22 17:47:23,480 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MedicalFileApplication in 5.058 seconds (JVM running for 7.09)
+2020-12-22 17:48:07,320 DEBUG tn.iit.medicalfile.web.rest.TraitementResource [http-nio-8080-exec-10] Getting all traitements
+2020-12-22 17:48:07,510 DEBUG tn.iit.medicalfile.services.StoreManagementClientService [http-nio-8080-exec-10] Getting Medicament with id 1
+2020-12-22 17:48:07,768 DEBUG tn.iit.medicalfile.services.StoreManagementClientService [http-nio-8080-exec-10] Getting Medicament with id 2
+2020-12-22 17:49:07,587 DEBUG tn.iit.medicalfile.web.rest.TraitementResource [http-nio-8080-exec-6] Getting all traitements
+2020-12-22 17:49:07,616 DEBUG tn.iit.medicalfile.services.StoreManagementClientService [http-nio-8080-exec-6] Getting Medicament with id 1
+2020-12-22 17:49:07,631 DEBUG tn.iit.medicalfile.services.StoreManagementClientService [http-nio-8080-exec-6] Getting Medicament with id 2
+2020-12-22 17:53:38,146 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting MedicalFileApplication using Java 11.0.2 on Troliste with PID 18484 (E:\DevOps\medical-file\target\classes started by Troliste in E:\DevOps)
+2020-12-22 17:53:38,148 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-22 17:53:38,149 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2020-12-22 17:53:39,593 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started MedicalFileApplication in 1.513 seconds (JVM running for 383.202)

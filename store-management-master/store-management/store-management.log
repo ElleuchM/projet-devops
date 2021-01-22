@@ -1,0 +1,4 @@
+2021-01-22 00:07:32,441 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting StoreManagementApplication using Java 11.0.8 on DESKTOP-QT9174F with PID 4448 (E:\3GLID1\DevOps\store-management-master\target\classes started by Mohamed ELLEUCH in E:\3GLID1\DevOps\store-management-master)
+2021-01-22 00:07:32,452 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.4.1, Spring v5.3.2
+2021-01-22 00:07:32,454 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-22 00:07:38,290 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started StoreManagementApplication in 6.528 seconds (JVM running for 9.215)
